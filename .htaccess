@@ -1,0 +1,7 @@
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/portalsk/fhgfgwfwgig9fwyf989c8yd9v8y98vy9wuirfhwhi.wayahegarap.pw"
+PassengerBaseURI "/"
+PassengerNodejs "/home/portalsk/nodevenv/fhgfgwfwgig9fwyf989c8yd9v8y98vy9wuirfhwhi.wayahegarap.pw/10/bin/node"
+PassengerAppType node
+PassengerStartupFile index.js
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
